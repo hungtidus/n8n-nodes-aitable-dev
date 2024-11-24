@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-aitable",
-	"version": "0.1.0",
+	"version": "3.1.0",
 	"description": "n8n node for Aitable",
 	"keywords": [
 	  "n8n-community-node-package"
@@ -8,12 +8,12 @@
 	"license": "MIT",
 	"homepage": "",
 	"author": {
-	  "name": "Your Name",
-	  "email": "your@email.com"
+	  "name": "hungtidus",
+	  "email": "hungtidus@gmail.com"
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/yourusername/n8n-nodes-aitable.git"
+	  "url": "https://github.com/hungtidus/n8n-nodes-aitable.git"
 	},
 	"main": "index.js",
 	"scripts": {
