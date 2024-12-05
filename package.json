@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-aitable",
-	"version": "3.1.0",
+	"version": "4.0.0",
 	"description": "n8n node for Aitable",
 	"keywords": [
 	  "n8n-community-node-package"
@@ -13,7 +13,7 @@
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/hungtidus/n8n-nodes-aitable.git"
+	  "url": "https://github.com/hungtidus/n8n-nodes-aitable-dev.git"
 	},
 	"main": "index.js",
 	"scripts": {
